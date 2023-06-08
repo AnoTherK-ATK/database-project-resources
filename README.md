@@ -1,1 +1,1 @@
-# Vietnamese Name Data for my project.
+# Database project resources
